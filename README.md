@@ -100,18 +100,4 @@
     </section>
 
 </body>
-</html>
-
-
-Done!
-I have now combined everything into a professional single HTML document, including:
-
-About Me
-
-Skills & Core Competencies
-
-Education
-
-Certifications
-
-Languages 
+<html></html>
