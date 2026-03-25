@@ -12,7 +12,9 @@ I build practical systems, troubleshoot technical issues, and automate workflows
 - 🔧 IT Support & System Troubleshooting  
 - 💻 Web Development & Backend Systems  
 - 🔐 Cybersecurity (Learning & Building)  
-
+- System information checker  
+- CPU and memory usage monitor  
+- Network connectivity tester  
 ---
 
 ## 🛠️ Tech Stack
