@@ -14,8 +14,17 @@ I build practical systems, troubleshoot technical issues, and automate workflows
 - 🔐 Cybersecurity (Learning & Building)  
 - System information checker  
 - CPU and memory usage monitor  
+- Network connectivity tester
+- ## 🚀 Features
+- System information checker  
+- CPU and memory usage monitor  
 - Network connectivity tester  
----
+- Disk cleanup automation  ## 🚀 Features
+- System information checker  
+- CPU and memory usage monitor  
+- Network connectivity tester  
+- Disk cleanup automation   
+-----
 
 ## 🛠️ Tech Stack
 - JavaScript | Python | PHP  
