@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**masiga07/masiga07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Samuel Masiga
 
-Here are some ideas to get you started:
+💻 IT Support Specialist | Software Developer | Cybersecurity Enthusiast  
+🌍 Kenya | Open to Remote Opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I build practical systems, troubleshoot technical issues, and automate workflows.
+
+- 🔧 IT Support & System Troubleshooting  
+- 💻 Web Development & Backend Systems  
+- 🔐 Cybersecurity (Learning & Building)  
+
+---
+
+## 🛠️ Tech Stack
+- JavaScript | Python | PHP  
+- HTML | CSS  
+- MySQL  
+- Git & GitHub  
+- Linux  
+
+---
+
+## 📌 Current Focus
+- Building real-world projects  
+- Strengthening cybersecurity skills  
+- Creating automation tools  
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/samuel-masiga-tech  
+- 📧 Email: masigasamuel901@gmail.com  
+
+---
+
+⭐️ Focused on solving real-world problems with technology
