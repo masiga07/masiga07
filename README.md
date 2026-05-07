@@ -4,7 +4,7 @@
 🌍 Kenya | Open to Remote Opportunities  
 ## 📄 Resume / CV
 
-[View My CV](Samuel-masiga-CV.pdf)
+[Download My CV](https://github.com/masiga07/masiga07/raw/main/Samuel-masiga-CV.pdf)
 
 ---
 
