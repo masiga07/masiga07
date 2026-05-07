@@ -2,6 +2,9 @@
 
 💻 IT Support Specialist | Software Developer | Cybersecurity Enthusiast  
 🌍 Kenya | Open to Remote Opportunities  
+## 📄 Resume / CV
+
+[View My CV](Samuel-masiga-CV.pdf)
 
 ---
 
